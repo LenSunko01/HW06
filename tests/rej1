@@ -1,0 +1,3 @@
+Module hdgs.
+type filter str -> a.
+f :- g.

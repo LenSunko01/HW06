@@ -1,0 +1,7 @@
+type f a.
+type f Y -> X.
+type f (Y -> X). 
+type f (A -> B) -> C. 
+type f A -> B -> C. 
+type f list (list A) -> list A -> o.
+type f pair A B -> (A -> C) -> (B -> D) -> pair C D.

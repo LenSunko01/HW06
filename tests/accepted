@@ -1,0 +1,13 @@
+f.
+f :- g.
+f :- g, h; t.
+f :- g, (h; t).
+id78_ :- idnew.
+many_spaces      :-no_space,     nosp  .
+test:-g,h;h,g;f;y;c,d,t.
+test :- (   g;u),y,(e;f).
+test:-(g;(h;(u;c))),y.
+test :- (g).
+test :- ((y)).
+g     .
+test:-(g;(h;(u;c))),y. f :- g.

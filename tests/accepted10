@@ -1,0 +1,3 @@
+odd (cons H (cons H1 T)) (cons H T1) :- odd T T1.
+odd (cons H nil) nil.
+odd nil nil.

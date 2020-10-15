@@ -1,0 +1,17 @@
+module f.
+
+type
+ filter (A -> o) 
+-> list
+ A -> list A
+ -> o
+
+
+.
+type fruit string -> o.
+
+f
+
+
+ :- g.
+ulp :- ikf.

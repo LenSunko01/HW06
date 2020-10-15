@@ -1,0 +1,3 @@
+module k.
+
+type ((k)) a -> b.

@@ -1,0 +1,4 @@
+id78_ :- idnew.
+many_spaces      :-no_space,     nosp  .
+test:-g,h;h,g;f;y;c,d,t.
+:- f.
